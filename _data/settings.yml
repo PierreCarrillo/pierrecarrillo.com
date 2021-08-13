@@ -2,30 +2,35 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: ''}
-- {name: 'Blog',     url: 'blog'}
-- {name: 'About',    url: 'about'}
-- {name: 'Contact',  url: 'contact'}
+- {name: 'About', url: ''}
+- {name: 'Photos', url: 'photography'}
+- {name: 'Videos', url: 'videos'}
+- {name: 'Podcast', url: 'podcast'}
 
 #-------------------------------
-# Projects Section
+# Photography Section
 
-projects:
-- {name: 'Project One',   url: 'proj-1'}
-- {name: 'Project Two',   url: 'proj-2'}
-- {name: 'Project Three', url: 'proj-3'}
-- {name: 'Project Four',  url: 'proj-4'}
-- {name: 'Project Five',  url: 'proj-5'}
+photography:
+- {name: 'Creations', url: 'creations'}
+- {name: 'Portraits', url: 'portraits'}
+- {name: 'Lifestyle', url: 'lifestyle'}
+
+#-------------------------------
+# Videos Section
+
+videos:
+  - {name: 'Corporate content', url: 'corporate'}
+  - {name: 'Music videos', url: 'music'}
+  - {name: 'Slackline videos', url: 'slackline'}
 
 #-------------------------------
 # Contact Section
 
 social:
-- {icon: 'twitter',   link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'github',    link: 'https://github.com/lenpaul'}
-- {icon: 'linkedin',  link: 'https://linkedin.com/in/lenpaul'}
-- {icon: 'envelope',  link: 'mailto:mailto:l.nguyen.paul@gmail.com'}
+- {icon: 'instagram', link: 'https://instagram.com/pierrillo'}
+- {icon: 'youtube', link: 'https://www.youtube.com/user/mexida'}
+- {icon: 'linkedin',  link: 'https://www.linkedin.com/in/j-pierre-carrillo/'}
+- {icon: 'envelope',  link: 'mailto:jacob.pierre@protonmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
@@ -35,7 +40,7 @@ social:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Personal portfolio powered by Jekyll and GitHub Pages '
+  description: "Pierre Carrillo's personal website"
   rel-author: 'https://plus.google.com/u/0/#'
   rel-publisher: 'https://plus.google.com/u/0/#'
 
