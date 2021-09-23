@@ -2,7 +2,6 @@
 # General Site Settings
 
 menu:
-- {name: 'About', url: ''}
 - {name: 'Photos', url: 'photography'}
 - {name: 'Videos', url: 'videos'}
 - {name: 'Podcast', url: 'podcast'}

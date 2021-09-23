@@ -1,9 +1,5 @@
 ---
-layout: page
+layout: podcast
 title: Podcast
 permalink: /podcast
 ---
-
-# Podcast production
-
-Add information about podcast production here.
